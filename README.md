@@ -1,5 +1,5 @@
 # hospital-er-dashboard 
-Excited to share my latest project: Hospital Emergency Room Analysis Dashboard built in Excel!
+Excited to share my latest project: Hospital Emergency Room Analysis Dashboard 
 
 This interactive dashboard helps stakeholders monitor patient flow, identify bottlenecks, and make data-driven decisions to improve ER efficiency and service quality.
 
